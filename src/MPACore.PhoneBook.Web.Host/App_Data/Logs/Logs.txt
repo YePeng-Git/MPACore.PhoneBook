@@ -1,0 +1,87 @@
+DEBUG 2019-03-20 21:28:44,482 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-03-20 21:28:44,555 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2019-03-20 21:28:44,568 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MPACore.PhoneBook.Web.Host.Startup.PhoneBookWebHostModule, MPACore.PhoneBook.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-03-20 21:28:44,571 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MPACore.PhoneBook.PhoneBookWebCoreModule, MPACore.PhoneBook.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-03-20 21:28:44,571 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MPACore.PhoneBook.PhoneBookApplicationModule, MPACore.PhoneBook.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-03-20 21:28:44,572 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MPACore.PhoneBook.PhoneBookCoreModule, MPACore.PhoneBook.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-03-20 21:28:44,572 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-03-20 21:28:44,572 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-03-20 21:28:44,572 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-03-20 21:28:44,572 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-03-20 21:28:44,573 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MPACore.PhoneBook.EntityFrameworkCore.PhoneBookEntityFrameworkModule, MPACore.PhoneBook.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-03-20 21:28:44,573 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-03-20 21:28:44,573 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-03-20 21:28:44,573 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-03-20 21:28:44,573 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-03-20 21:28:44,574 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-03-20 21:28:44,574 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-03-20 21:28:44,576 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2019-03-20 21:28:44,641 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-03-20 21:28:44,641 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-03-20 21:28:44,641 [1    ] o.Configuration.LanguageManagementConfig - Converted PhoneBook (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-03-20 21:28:44,641 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-03-20 21:28:44,919 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: MPACore.PhoneBook.EntityFrameworkCore.PhoneBookDbContext, MPACore.PhoneBook.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-03-20 21:28:45,842 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2019-03-20 21:28:45,891 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-03-20 21:28:45,929 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2019-03-20 21:28:45,949 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: PhoneBook
+DEBUG 2019-03-20 21:28:45,973 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-03-20 21:28:46,137 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2019-03-20 21:28:46,177 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 10 classes define auto mapping attributes
+DEBUG 2019-03-20 21:28:46,177 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MPACore.PhoneBook.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2019-03-20 21:28:46,182 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MPACore.PhoneBook.Users.Dto.CreateUserDto
+DEBUG 2019-03-20 21:28:46,183 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MPACore.PhoneBook.Users.Dto.UserDto
+DEBUG 2019-03-20 21:28:46,183 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MPACore.PhoneBook.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2019-03-20 21:28:46,183 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MPACore.PhoneBook.Sessions.Dto.UserLoginInfoDto
+DEBUG 2019-03-20 21:28:46,183 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MPACore.PhoneBook.Roles.Dto.CreateRoleDto
+DEBUG 2019-03-20 21:28:46,183 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MPACore.PhoneBook.Roles.Dto.PermissionDto
+DEBUG 2019-03-20 21:28:46,183 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MPACore.PhoneBook.Roles.Dto.RoleDto
+DEBUG 2019-03-20 21:28:46,184 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MPACore.PhoneBook.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2019-03-20 21:28:46,184 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MPACore.PhoneBook.MultiTenancy.Dto.TenantDto
+INFO  2019-03-20 21:28:51,960 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 DEBUG http://localhost:21021/  0
+INFO  2019-03-20 21:28:51,960 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2019-03-20 21:28:52,065 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 111.1801ms 200 
+INFO  2019-03-20 21:28:56,002 [6    ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing action MPACore.PhoneBook.Web.Host.Controllers.HomeController.Index (MPACore.PhoneBook.Web.Host)
+INFO  2019-03-20 21:28:57,305 [6    ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method MPACore.PhoneBook.Web.Host.Controllers.HomeController.Index (MPACore.PhoneBook.Web.Host) - Validation state: Valid
+INFO  2019-03-20 21:28:57,311 [6    ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method MPACore.PhoneBook.Web.Host.Controllers.HomeController.Index (MPACore.PhoneBook.Web.Host), returned result Microsoft.AspNetCore.Mvc.RedirectResult in 2.1281ms.
+INFO  2019-03-20 21:28:57,443 [7    ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2019-03-20 21:28:57,457 [7    ] ore.Mvc.Internal.ControllerActionInvoker - Executed action MPACore.PhoneBook.Web.Host.Controllers.HomeController.Index (MPACore.PhoneBook.Web.Host) in 1448.5323ms
+INFO  2019-03-20 21:28:57,474 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger  
+INFO  2019-03-20 21:28:57,478 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 5526.6628ms 302 
+INFO  2019-03-20 21:28:57,490 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 15.0536ms 301 
+INFO  2019-03-20 21:28:57,493 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/index.html  
+INFO  2019-03-20 21:28:57,524 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 30.373ms 200 text/html
+INFO  2019-03-20 21:28:57,537 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui.css  
+INFO  2019-03-20 21:28:57,543 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-bundle.js  
+INFO  2019-03-20 21:28:57,545 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-standalone-preset.js  
+INFO  2019-03-20 21:28:57,549 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/ui/abp.js  
+INFO  2019-03-20 21:28:57,570 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/ui/abp.swagger.js  
+INFO  2019-03-20 21:28:57,608 [14   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.js'. Physical path: 'E:\Project\CodeManager\MPACore.PhoneBook\aspnet-core\src\MPACore.PhoneBook.Web.Host\wwwroot\swagger\ui\abp.js'
+INFO  2019-03-20 21:28:57,611 [7    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.swagger.js'. Physical path: 'E:\Project\CodeManager\MPACore.PhoneBook\aspnet-core\src\MPACore.PhoneBook.Web.Host\wwwroot\swagger\ui\abp.swagger.js'
+INFO  2019-03-20 21:28:57,613 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 64.165ms 200 application/javascript
+INFO  2019-03-20 21:28:57,615 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 43.5817ms 200 application/javascript
+INFO  2019-03-20 21:28:57,630 [6    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+INFO  2019-03-20 21:28:57,636 [13   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+INFO  2019-03-20 21:28:57,643 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 105.6026ms 200 text/css
+INFO  2019-03-20 21:28:57,646 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 99.0324ms 200 application/javascript
+INFO  2019-03-20 21:28:57,655 [13   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+INFO  2019-03-20 21:28:57,660 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 117.704ms 200 application/javascript
+INFO  2019-03-20 21:28:58,075 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/v1/swagger.json  
+INFO  2019-03-20 21:28:58,159 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/favicon-32x32.png  
+INFO  2019-03-20 21:28:58,163 [9    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+INFO  2019-03-20 21:28:58,166 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 27.2131ms 200 image/png
+INFO  2019-03-20 21:28:58,168 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/favicon-16x16.png  
+INFO  2019-03-20 21:28:58,172 [7    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+INFO  2019-03-20 21:28:58,175 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 6.5994ms 200 image/png
+INFO  2019-03-20 21:28:58,362 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 286.6878ms 200 application/json;charset=utf-8
+INFO  2019-03-20 21:29:23,397 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2019-03-20 21:29:23,405 [6    ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing action MPACore.PhoneBook.Web.Host.Controllers.HomeController.Index (MPACore.PhoneBook.Web.Host)
+INFO  2019-03-20 21:29:23,423 [6    ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method MPACore.PhoneBook.Web.Host.Controllers.HomeController.Index (MPACore.PhoneBook.Web.Host) - Validation state: Valid
+INFO  2019-03-20 21:29:23,425 [6    ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method MPACore.PhoneBook.Web.Host.Controllers.HomeController.Index (MPACore.PhoneBook.Web.Host), returned result Microsoft.AspNetCore.Mvc.RedirectResult in 0.0056ms.
+INFO  2019-03-20 21:29:23,457 [13   ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2019-03-20 21:29:23,460 [13   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action MPACore.PhoneBook.Web.Host.Controllers.HomeController.Index (MPACore.PhoneBook.Web.Host) in 52.9365ms
+INFO  2019-03-20 21:29:23,462 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 64.9932ms 302 
+INFO  2019-03-20 21:29:23,476 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger  
+INFO  2019-03-20 21:29:23,479 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 7.682ms 301 
+INFO  2019-03-20 21:29:23,481 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/index.html  
+INFO  2019-03-20 21:29:23,484 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 3.1054ms 200 text/html
